@@ -4,6 +4,7 @@
 </head>
 
 <body>
+    Kesalahan Input Data
     <center>
         <form action="<?php echo base_url('matakuliah/cetak') ?>" method="post">
     <table>
